@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284758079606",
+    "project_id": "fir-example-1a70c",
+    "storage_bucket": "fir-example-1a70c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284758079606:android:d2be3d032f94dfaa8a0757",
+        "android_client_info": {
+          "package_name": "com.techindustan.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284758079606-9v4mqgqn7849je69m1f5pgdjruv6qcnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXt9fUSvDWSgv7gWGLsvrJUKI127pwJGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284758079606-9v4mqgqn7849je69m1f5pgdjruv6qcnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
